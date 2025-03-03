@@ -1,4 +1,4 @@
-# **Shopping List App - User Policy**
+# **POS App - User Policy**
 
 This document outlines the User Policy for the Shopping List App. By using the App, you agree to comply with the terms below.
 
